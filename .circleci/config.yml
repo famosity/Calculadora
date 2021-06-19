@@ -9,7 +9,7 @@ orbs:
   node: circleci/node@4.1
   heroku: circleci/heroku@0.0.10
   slack: circleci/slack@4.4.2
-  sonarcloud: sonarsource/sonarcloud@1.0.2
+#  sonarcloud: sonarsource/sonarcloud@1.0.2
 
 jobs:
   # Below is the definition of your job to build and test your app, you can rename and customize it as you want.
