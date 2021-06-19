@@ -40,7 +40,7 @@ function App() {
       <header className="App-header">
       <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Project by Acevedo Fernando - Ing. Soft. UTN FRRe <br /><br /><br />
+          Project by Famoso Fernando - Ing. Soft. UTN FRRe <br /><br /><br />
         </p>
         <div>
           <label>Numero A: </label>
